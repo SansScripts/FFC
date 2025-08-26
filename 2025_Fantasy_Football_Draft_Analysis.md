@@ -30,7 +30,7 @@
 
 #### 🚀 **Rising Stars (Moving Up in ADP)**
 1. **Bijan Robinson** - Unanimous top 5 pick across all sources
-2. **Garrett Wilson** - Rodgers effect, now a first-round lock
+2. **Garrett Wilson** - Proved elite despite poor QB play, now a first-round lock
 3. **Marvin Harrison Jr.** - Rookie WR1 consensus, late 1st/early 2nd
 4. **Anthony Richardson** - QB breakout candidate if healthy
 5. **Jaxon Smith-Njigba** - Year 2 leap, new offensive system
@@ -109,15 +109,25 @@
 **PRIMARY TARGETS (Ranked by preference):**
 
 1. **CeeDee Lamb (WR - DAL)** - Elite target share, consistent production
+   - *2024 Stats: 135 rec, 1,749 yds, 12 TDs*
 2. **Amon-Ra St. Brown (WR - DET)** - PPR monster, offensive centerpiece
+   - *2024 Stats: 119 rec, 1,515 yds, 10 TDs*
 3. **Tyreek Hill (WR - MIA)** - Boom potential despite age concerns
-4. **Garrett Wilson (WR - NYJ)** - Rodgers reunion, breakout candidate
+   - *2024 Stats: 119 rec, 1,799 yds, 13 TDs*
+4. **Garrett Wilson (WR - NYJ)** - New QB situation, proven talent
+   - *2024 Stats: 95 rec, 1,042 yds, 3 TDs (with Zach Wilson/Boyle)*
 5. **Bijan Robinson (RB - ATL)** - Year 2 leap expected, workhorse potential
+   - *2024 Stats: 214 rush, 976 yds, 4 TDs; 58 rec, 487 yds, 4 TDs*
 6. **Puka Nacua (WR - LAR)** - Proven elite upside if healthy
+   - *2024 Stats: 105 rec, 1,486 yds, 6 TDs (14 games)*
 7. **Chris Olave (WR - NO)** - Target monster with new offensive coordinator
+   - *2024 Stats: 87 rec, 1,123 yds, 5 TDs*
 8. **Jahmyr Gibbs (RB - DET)** - Explosive upside in elite offense
+   - *2024 Stats: 182 rush, 945 yds, 10 TDs; 52 rec, 316 yds, 1 TD*
 9. **Travis Etienne Jr. (RB - JAX)** - Bell-cow role, improved offense
+   - *2024 Stats: 267 rush, 1,008 yds, 11 TDs; 26 rec, 244 yds, 1 TD*
 10. **A.J. Brown (WR - PHI)** - Elite when healthy, slight injury concern
+    - *2024 Stats: 106 rec, 1,456 yds, 7 TDs (15 games)*
 
 **Strategy Note:** If top 5 RBs are gone, pivot to elite WR. CeeDee or Amon-Ra are championship cornerstones.
 
@@ -127,15 +137,25 @@
 **PRIMARY TARGETS (Ranked by preference):**
 
 1. **Jonathan Taylor (RB - IND)** - Buy-low after down year, Richardson boost
+   - *2024 Stats: 169 rush, 700 yds, 5 TDs; 26 rec, 159 yds (10 games)*
 2. **Saquon Barkley (RB - PHI)** - Elite offense, revenge tour
+   - *2024 Stats: 247 rush, 962 yds, 6 TDs; 46 rec, 280 yds, 4 TDs*
 3. **Justin Jefferson (WR - MIN)** - If he falls, automatic pick
+   - *2024 Stats: 68 rec, 1,074 yds, 5 TDs (10 games - injury)*
 4. **Derrick Henry (RB - BAL)** - Lamar's best friend, TD upside
+   - *2024 Stats: 280 rush, 1,167 yds, 12 TDs; 28 rec, 214 yds*
 5. **Kenneth Walker III (RB - SEA)** - New OC, featured back
+   - *2024 Stats: 219 rush, 905 yds, 8 TDs; 29 rec, 175 yds*
 6. **Davante Adams (WR - LV)** - Target hog regardless of QB
+   - *2024 Stats: 103 rec, 1,144 yds, 8 TDs*
 7. **Marvin Harrison Jr. (WR - ARI)** - Rookie of the Year favorite
+   - *College Stats (Ohio State): 67 rec, 1,211 yds, 14 TDs*
 8. **DeVonta Smith (WR - PHI)** - Consistent WR2 with WR1 weeks
+   - *2024 Stats: 81 rec, 1,066 yds, 7 TDs*
 9. **Rachaad White (RB - TB)** - Volume play, receiving upside
+   - *2024 Stats: 272 rush, 990 yds, 6 TDs; 64 rec, 549 yds, 3 TDs*
 10. **Isiah Pacheco (RB - KC)** - Chiefs' backfield to himself
+    - *2024 Stats: 205 rush, 935 yds, 7 TDs; 44 rec, 244 yds, 2 TDs*
 
 **Strategy Note:** Balance your roster - if you went WR in Round 1, prioritize RB here.
 
@@ -145,15 +165,25 @@
 **PRIMARY TARGETS (Ranked by preference):**
 
 1. **Sam LaPorta (TE - DET)** - Elite TE value, difference maker
+   - *2024 Stats: 86 rec, 889 yds, 10 TDs (rookie year)*
 2. **Josh Jacobs (RB - GB)** - Packers' bell cow, fresh start
+   - *2024 Stats: 233 rush, 805 yds, 6 TDs; 27 rec, 152 yds, 2 TDs*
 3. **DK Metcalf (WR - SEA)** - New OC boost, alpha target
+   - *2024 Stats: 66 rec, 1,114 yds, 8 TDs*
 4. **Mike Evans (WR - TB)** - Mr. Consistent, 1,000-yard guarantee
+   - *2024 Stats: 79 rec, 1,255 yds, 13 TDs (11th straight 1,000-yard season)*
 5. **DJ Moore (WR - CHI)** - Williams' safety blanket
+   - *2024 Stats: 96 rec, 1,364 yds, 8 TDs*
 6. **Stefon Diggs (WR - HOU)** - Stroud connection developing
+   - *2024 Stats: 107 rec, 1,183 yds, 8 TDs*
 7. **James Cook (RB - BUF)** - Ascending role, elite offense
+   - *2024 Stats: 237 rush, 1,122 yds, 2 TDs; 44 rec, 445 yds, 4 TDs*
 8. **Rhamondre Stevenson (RB - NE)** - Volume king with Maye
+   - *2024 Stats: 156 rush, 619 yds, 4 TDs; 38 rec, 238 yds*
 9. **Calvin Ridley (WR - TEN)** - Bounce-back with Levis development
+   - *2024 Stats: 76 rec, 1,016 yds, 8 TDs*
 10. **Jaylen Waddle (WR - MIA)** - Buy-low after injury year
+    - *2024 Stats: 72 rec, 1,014 yds, 4 TDs (missed 3 games)*
 
 **Strategy Note:** If LaPorta is available, strongly consider him - positional advantage is huge.
 
