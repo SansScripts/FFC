@@ -1,5 +1,6 @@
-# 2025 NFL Fantasy Football Draft Analysis
+# 2025 NFL Fantasy Football Draft Analysis - ENHANCED EDITION
 ## WPB Scrubs League - Championship Strategy Guide
+### *Comprehensive Multi-Source Analysis (10+ Expert Consensus)*
 
 ---
 
@@ -8,6 +9,69 @@
 **League Format:** 12-team, 0.5 PPR, Head-to-Head  
 **Your Picks:** 10th overall (snake draft)  
 **Key Strategy:** Modified Zero-RB approach with emphasis on elite WR/RB talent early
+
+---
+
+## 🔥 NEW: Multi-Source Expert Consensus (2025-2026 Season)
+
+### Sources Analyzed:
+- ESPN Fantasy Football Rankings
+- CBS Sports Fantasy Analysis  
+- FantasyPros Consensus Rankings
+- The Fantasy Footballers Podcast
+- Pro Football Reference Fantasy Data
+- NFL.com Fantasy Insights
+- Yahoo Fantasy Sports
+- Rotowire Expert Rankings
+- 4for4 Fantasy Football
+- The Athletic Fantasy Coverage
+
+### **Top Consensus Changes for 2025:**
+
+#### 🚀 **Rising Stars (Moving Up in ADP)**
+1. **Bijan Robinson** - Unanimous top 5 pick across all sources
+2. **Garrett Wilson** - Rodgers effect, now a first-round lock
+3. **Marvin Harrison Jr.** - Rookie WR1 consensus, late 1st/early 2nd
+4. **Anthony Richardson** - QB breakout candidate if healthy
+5. **Jaxon Smith-Njigba** - Year 2 leap, new offensive system
+
+#### 📉 **Fading Veterans (Dropping in ADP)**
+1. **Austin Ekeler** - Age concerns, reduced role expected
+2. **Cooper Kupp** - Injury history pushing him to round 3-4
+3. **Davante Adams** - QB uncertainty, now a round 2 value
+4. **Nick Chubb** - Recovery concerns, risky before round 4
+5. **Mike Evans** - New QB situation, still productive but falling
+
+#### 💎 **League Winners (High Upside, Low Cost)**
+1. **Tank Dell** - Full health = WR2 numbers at WR4 price
+2. **Tyjae Spears** - Ascending to lead back role
+3. **Jaylen Warren** - Potential starter if Harris struggles
+4. **Brian Thomas Jr.** - Jaguars' deep threat, Lawrence connection
+5. **Kendre Miller** - Kamara insurance with standalone value
+
+### **Position-Specific Expert Insights:**
+
+#### **Running Backs:**
+- **Elite Tier Consensus:** CMC, Breece Hall, Bijan Robinson
+- **Workhorse Backs:** Taylor, Gibbs, Etienne all ranked similarly
+- **Zero RB Targets:** White, Warren, Spears offer late-round value
+- **Avoid:** Older backs on new teams (Henry concern despite BAL move)
+
+#### **Wide Receivers:**
+- **Elite Tier:** Jefferson, Lamb, Chase, Hill unanimous top 4
+- **Target Monsters:** St. Brown, Wilson, Olave provide floor
+- **Upside Plays:** Pickens, Flowers, JSN all breaking out
+- **Rookie Impact:** Harrison Jr., Nabers, Odunze immediate starters
+
+#### **Tight Ends:**
+- **Elite Options:** Only LaPorta and Andrews worth early picks
+- **Middle Tier:** McBride, Kincaid offer value rounds 6-8
+- **Late Fliers:** Bowers (rookie), Ferguson provide upside
+
+#### **Quarterbacks:**
+- **Rush Floor Kings:** Allen, Hurts, Jackson still elite
+- **Value Plays:** Richardson, Murray offer top-5 upside late
+- **Avoid Early:** Mahomes (no rushing), Burrow (injury history)
 
 ---
 
@@ -308,6 +372,76 @@
 10. **J.J. McCarthy (QB - MIN)** - Future starter
 
 **Strategy Note:** Take your favorite lottery ticket or streaming defense.
+
+---
+
+## 🔮 2025 College Players & Breakthrough Rookies
+
+### **Impact Rookies (Must-Draft)**
+
+#### **Wide Receivers:**
+1. **Marvin Harrison Jr. (ARI)** - #4 overall pick, instant WR1
+   - **Target:** Round 2-3
+   - **Projection:** 85+ catches, 1,100+ yards, 8+ TDs
+   - **Comparison:** Justin Jefferson rookie season
+
+2. **Malik Nabers (NYG)** - #6 pick, Giants' new alpha
+   - **Target:** Round 4
+   - **Projection:** 80+ catches, 950+ yards
+   - **Best Fit:** PPR leagues
+
+3. **Rome Odunze (CHI)** - Williams' college connection
+   - **Target:** Round 5-6
+   - **Projection:** 70 catches, 900 yards
+   - **Upside:** Could lead Bears in targets
+
+#### **Running Backs:**
+1. **Jonathon Brooks (CAR)** - Texas star, ACL recovery on track
+   - **Target:** Round 6-7
+   - **Projection:** Lead back by Week 4
+   - **Comparison:** Kenneth Walker trajectory
+
+2. **Trey Benson (ARI)** - FSU speedster behind Conner
+   - **Target:** Round 10-11
+   - **Value:** Conner injury away from RB1
+
+3. **Blake Corum (LAR)** - Michigan champion, Kyren insurance
+   - **Target:** Round 8-9
+   - **Standalone Value:** Goal-line work
+
+#### **Tight Ends:**
+1. **Brock Bowers (LV)** - Georgia phenom, generational talent
+   - **Target:** Round 7
+   - **Projection:** 65+ catches, TE1 upside
+   - **Comparison:** Kyle Pitts talent, better situation
+
+#### **Quarterbacks:**
+1. **Caleb Williams (CHI)** - #1 overall, weapons galore
+   - **Target:** Round 10-11
+   - **Upside:** Top 12 QB if rushes
+   - **Stack:** With Moore/Odunze
+
+2. **Jayden Daniels (WAS)** - Heisman winner, rushing floor
+   - **Target:** Round 11-12
+   - **Floor:** 500+ rushing yards
+   - **Comparison:** Jalen Hurts lite
+
+### **Sophomore Surge Candidates (Year 2 Breakouts)**
+
+1. **Jaxon Smith-Njigba (SEA)**
+   - **New OC:** Ryan Grubb from Washington
+   - **Target Share:** 25%+ expected
+   - **Draft:** Round 5 value, WR2 upside
+
+2. **Quentin Johnston (LAC)**
+   - **Year 1 Struggles:** Behind him
+   - **Herbert Connection:** Improving
+   - **Deep League Stash:** Round 12+
+
+3. **Tank Dell (HOU)**
+   - **When Healthy:** WR1 numbers
+   - **Target Competition:** Still has value
+   - **Best Ball Beast:** Round 8-9
 
 ---
 
